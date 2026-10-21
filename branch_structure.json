@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2198-spr-2026-274-obs-report-terraform-rollout",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2198-spr-2026-274-obs-report-terraform-rollout": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2198-spr-2026-274-obs-report-terraform-rollout",
+    "origin"
+  ]
+}
